@@ -4,3 +4,6 @@
 
 ## UPDATE
 -Uploaded tetris AI project. Is in working order. Still some bugs to fix
+
+## DO DO
+-currently working on better set out and overall appearance
